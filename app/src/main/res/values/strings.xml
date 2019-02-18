@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab equipment</string>
+    <string name="label_type">Type:</string>
+    <string name="label_manufacturer">Manufacturer:</string>
+    <string name="label_model">Model:</string>
+    <string name="label_bought_on">Bought on:</string>
+    <string name="label_on_loan">On loan? :</string>
+    <string name="label_loaned_to">Loaned to:</string>
+    <string name="tv_label_details">Details</string>
+</resources>
